@@ -1,0 +1,11 @@
+{
+  "name": "rootrelative",
+  "version": "1.0.1",
+  "description": "enable require(rootRelativePath) by using an absolute path starting from the projects root directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "serapath <dev@serapath.de> (http://www.github.com/serapath)",
+  "license": "ISC"
+}
